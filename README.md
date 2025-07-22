@@ -19,3 +19,7 @@ This project uses image recognition to identify types of food from images. It le
 
 ## 📊 Results
 - Accuracy: 85% on validation set
+
+## 📸 Screenshot
+
+![Model confusion metrix graph](assets/food_confusion_metrix.png),(assets/2food_confusion_metrix.png)
