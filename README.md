@@ -22,4 +22,5 @@ This project uses image recognition to identify types of food from images. It le
 
 ## 📸 Screenshot
 
-![Model confusion metrix graph](assets/food_confusion_metrix.png),(assets/2food_confusion_metrix.png)
+![Model confusion metrix graph](assets/food_confusion_metrix.png)
+![Model confusion metrix graph](assets/2food_confusion_metrix.png)
