@@ -11,6 +11,11 @@ This project uses image recognition to identify types of food from images. It le
 - Jupyter Notebook
 - google collab
 
+## 📚 Library used
+- torch
+- torchvision
+- matplotlib
+
 ## 🚀 Workflow
 1. Collected and cleaned image dataset
 2. Preprocessed images (resize, normalize)
@@ -18,7 +23,7 @@ This project uses image recognition to identify types of food from images. It le
 4. Evaluated accuracy and loss
 
 ## 📊 Results
-- Accuracy: 85% on validation set
+- Accuracy: 83% on validation set
 
 ## 📸 Screenshot
 
